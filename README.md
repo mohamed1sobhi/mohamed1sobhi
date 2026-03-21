@@ -127,7 +127,7 @@ class MohamedSobhi:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed1sobhi&bg_color=0d1117&color=6366f1&line=8b5cf6&point=06b6d4&area=true&area_color=6366f120&hide_border=true" width="100%" />
 </div>
 
-> ⚠️ Commit counts above reflect **public repositories only**. My actual contribution count is significantly higher — [view my full contribution graph](https://github.com/mohamed1sobhi) to see private activity.
+> ⚠️ Commit counts above reflect **public repositories only**. My actual contribution count is significantly higher — view my full contribution graph below to see private activity.
 
 
 ---
