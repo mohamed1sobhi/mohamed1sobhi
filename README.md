@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+APIs+%26+modular+backend+architectures;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+React+%7C+Next.js;Turning+complex+requirements+into+clean%2C+maintainable+systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+scalable+APIs+with+modular+backend+architectures;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+React+%7C+Next.js;Turning+complex+requirements+into+clean%2C+maintainable+systems)
 
 </div>
 
