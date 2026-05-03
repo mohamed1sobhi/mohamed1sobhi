@@ -28,9 +28,8 @@ class MohamedSobhi:
     role         = "Full Stack Web Developer"
     location     = "Egypt 🇪🇬"
     stack        = ["FastAPI", "Django", "PostgreSQL", "React", "Next.js", "Docker"]
-    architecture = ["Modular Monolith", "Repository Pattern", "RBAC", "Event-Driven"]
-    currently    = ["Building real estate platform @ 3qar.co",
-                    "Shipping CRM features @ Nedialo"]
+    architecture = ["Modular Monolith", "Layered Architecture", "Event-Driven"]
+    currently    = ["Building New CRM System @ Nedialo"]
     available    = True  # Open to new opportunities
 ```
 
