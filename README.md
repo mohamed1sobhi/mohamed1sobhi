@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Mohamed%20Sobhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=50&descColor=e0e7ff&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Mohamed%20Sobhi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Web%20Developer&descAlignY=60&descAlign=50&descColor=e0e7ff&descSize=18" width="100%" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 I'm a **Full Stack Web Developer** with a strong backend focus, building production-grade APIs and scalable architectures for real businesses. I don't just write code — I design **systems that last**: clean layering, domain isolation, and explicit dependency flows.
 
-Currently shipping at **two companies simultaneously**.
+Currently shipping at **Nedialo**.
 
 ```python
 class MohamedSobhi:
@@ -42,25 +42,26 @@ class MohamedSobhi:
 <tr>
 <td width="50%">
 
+### 📊 Nedialo · Full Stack Developer
+*May 2025 – Present · Remote*
+
+- Developing a new CRM platform with a client-facing portal for self-registration, campaign management, and lead purchasing workflows, designed to drive revenue through automated onboarding, payments, and scalable lead generation.
+- Re-architected production deployment from Apache → **Docker Compose** (Django + Gunicorn + Nginx + Certbot)
+- Built **operations dashboard** surfacing real-time campaign & agent performance data
+- Developed **automated mail reporting** (daily/weekly/monthly) via async scheduler
+- Refactored core modules into **service-layer components** for payroll automation readiness
+
+</td>
+<td width="50%">
+
 ### 🏠 3qar.co · Full Stack Developer
-*Jan 2026 – Present · Remote*
+*Jan 2026 – April 2026 · Remote*
 
 - Architected a **production real estate platform** from scratch with FastAPI + Next.js
 - Implemented **JWT + Argon2 + RBAC** multi-role auth system
 - Built **Redis-based OTP rate limiting** preventing abuse at scale
 - Used **joined-table inheritance** for polymorphic property types
 - Designed **Twilio OTP flow** with reusable access tokens for seamless UX
-
-</td>
-<td width="50%">
-
-### 📊 Nedialo · Full Stack Developer
-*May 2025 – Present · Remote*
-
-- Re-architected production deployment from Apache → **Docker Compose** (Django + Gunicorn + Nginx + Certbot)
-- Built **operations dashboard** surfacing real-time campaign & agent performance data
-- Developed **automated mail reporting** (daily/weekly/monthly) via async scheduler
-- Refactored core modules into **service-layer components** for payroll automation readiness
 
 </td>
 </tr>
